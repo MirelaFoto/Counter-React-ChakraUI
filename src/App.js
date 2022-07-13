@@ -1,8 +1,8 @@
 
 import './App.css';
-import './Counter'
+import './Components/Counter'
 import { Heading,Center, Container } from '@chakra-ui/react' 
-import Counter from './Counter';
+import Counter from './Components/Counter';
 
 
 
